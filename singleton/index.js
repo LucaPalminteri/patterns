@@ -1,0 +1,1 @@
+import singletonCounter from "./counter";
